@@ -1,0 +1,10 @@
+//Buat struktur JSON nya sesuai soal
+{
+  "tasks": [
+    { "text": "Belanja Bulanan", "completed": true },
+    { "text": "Tubes Webpro", "completed": false },
+    { "text": "Tubes MOBPRO", "completed": true },
+    { "text": "Lari Pagi", "completed": false },
+    { "text": "belajar UI Design", "completed": true }
+  ]
+}
